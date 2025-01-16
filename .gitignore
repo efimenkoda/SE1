@@ -3,3 +3,16 @@
 *.exe
 *.layout 
 *.depend
+/.vs/vcs_git/FileContentIndex
+/.vs/vcs_git/v17/ipch/AutoPCH/dfbacf0e1d064943
+/.vs/vcs_git/v17/.suo
+/.vs/vcs_git/v17/Browse.VC.db
+/.vs/vcs_git/v17/Browse.VC.db-shm
+/.vs/vcs_git/v17/Browse.VC.db-wal
+/.vs/vcs_git/v17/Browse.VC.opendb
+/.vs/vcs_git/v17/DocumentLayout.json
+/vcs_git/x64/Debug/vc143.idb
+/vcs_git/x64/Debug/vc143.pdb
+/vcs_git/x64/Debug/vcs_git.exe.recipe
+/vcs_git/x64/Debug/vcs_git.ilk
+/vcs_git/x64/Debug/vcs_git.log
